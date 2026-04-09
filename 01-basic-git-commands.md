@@ -169,5 +169,3 @@ git push
 **Check → Add → Commit → Push**
 
 ---
-
-*End of document*
